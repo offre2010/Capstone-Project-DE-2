@@ -1,1 +1,3 @@
 service_account_key.json
+
+GCP_Secret_Manager_Version_1 = projects/359580879847/secrets/caps-secret-details/versions/1
